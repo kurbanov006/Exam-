@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\ExamTask\bin\Debug\net8.0\ExamTask.exe
+C:\Users\admin\Desktop\ExamTask\bin\Debug\net8.0\ExamTask.deps.json
+C:\Users\admin\Desktop\ExamTask\bin\Debug\net8.0\ExamTask.runtimeconfig.json
+C:\Users\admin\Desktop\ExamTask\bin\Debug\net8.0\ExamTask.dll
+C:\Users\admin\Desktop\ExamTask\bin\Debug\net8.0\ExamTask.pdb
+C:\Users\admin\Desktop\ExamTask\obj\Debug\net8.0\ExamTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ExamTask\obj\Debug\net8.0\ExamTask.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ExamTask\obj\Debug\net8.0\ExamTask.AssemblyInfo.cs
+C:\Users\admin\Desktop\ExamTask\obj\Debug\net8.0\ExamTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ExamTask\obj\Debug\net8.0\ExamTask.dll
+C:\Users\admin\Desktop\ExamTask\obj\Debug\net8.0\refint\ExamTask.dll
+C:\Users\admin\Desktop\ExamTask\obj\Debug\net8.0\ExamTask.pdb
+C:\Users\admin\Desktop\ExamTask\obj\Debug\net8.0\ExamTask.genruntimeconfig.cache
+C:\Users\admin\Desktop\ExamTask\obj\Debug\net8.0\ref\ExamTask.dll
